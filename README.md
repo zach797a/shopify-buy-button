@@ -1,6 +1,5 @@
 # shopify-buy-button
-Various integrations of the Shopify Buy Button
-
+Various integrations of the Shopify Buy Button:
 
 html-product-selector
 

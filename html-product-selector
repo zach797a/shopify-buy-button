@@ -1,9 +1,11 @@
-<form id="shopify" action="https://shehatesme.myshopify.com/cart/19470461062:1" name="shopify"><select id="sizes" name="sizes" onchange="javascript:document.shopify.action=this.options[selectedIndex].value">
-<option value="https://shehatesme.myshopify.com/cart/23945893574:1">Extra Small</option>
-<option value="https://shehatesme.myshopify.com/cart/23945893638:1">Small</option>
-<option value="https://shehatesme.myshopify.com/cart/23945893766:1">Medium</option>
-<option value="https://shehatesme.myshopify.com/cart/23945893830:1">Large</option>
-<option value="https://shehatesme.myshopify.com/cart/23945893894:1">Extra Large</option>
-<option value="https://shehatesme.myshopify.com/cart/23945893958:1">Double Extra Large</option>
-<option value="https://shehatesme.myshopify.com/cart/23945894022:1">Triple Extra Large</option>
-</select><input type="submit" value="Buy Now"></form>
+<form id="shopify" action="https://shehatesme.myshopify.com/cart/19470461062:1" name="shopify">
+  <select id="sizes" name="sizes" onchange="javascript:document.shopify.action=this.options[selectedIndex].value">
+    <option value="https://shehatesme.myshopify.com/cart/23945893574:1">Extra Small</option>
+    <option value="https://shehatesme.myshopify.com/cart/23945893638:1">Small</option>
+    <option value="https://shehatesme.myshopify.com/cart/23945893766:1">Medium</option>
+    <option value="https://shehatesme.myshopify.com/cart/23945893830:1">Large</option>
+    <option value="https://shehatesme.myshopify.com/cart/23945893894:1">Extra Large</option>
+    <option value="https://shehatesme.myshopify.com/cart/23945893958:1">Double Extra Large</option>
+    <option value="https://shehatesme.myshopify.com/cart/23945894022:1">Triple Extra Large</option>
+  </select>
+<input type="submit" value="Buy Now"></form>
